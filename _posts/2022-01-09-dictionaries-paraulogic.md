@@ -6,7 +6,7 @@ tags: python c++ journey
 categories: coding
 ---
 Recently, a word game has become quite the sensation among people who speak Catalan: 
-"[Paraulògic](1)", as it is called, consists of 7 letters arranged in the following hexagonal beehive pattern.
+"[Paraulògic](https://vilaweb.cat/paraulogic/)", as it is called, consists of 7 letters arranged in the following hexagonal beehive pattern.
 {:refdef: style="text-align: center;"}
 ![paraulogic array](/assets/img/paraulogic-array.png){:class="img-responsive"}
 {: refdef}
@@ -161,7 +161,7 @@ void print(const vector<string> &words) {
 
 ## Closing thoughts
 
-This is it! This concludes my blog post on how to solve [_Paraulògic_](1).
+This is it! This concludes my blog post on how to solve [_Paraulògic_](https://vilaweb.cat/paraulogic/).
 I've already tried this strategy and reached the highest level in the game, signified by an 🦉.
 
 
