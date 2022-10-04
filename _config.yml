@@ -44,6 +44,14 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      mathjax: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
