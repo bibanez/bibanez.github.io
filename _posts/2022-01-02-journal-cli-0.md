@@ -89,6 +89,6 @@ There already exist more powerful solutions for writing journals out there (whic
 Just to mention a few open-source alternatives: [journal-cli][1] or [Joplin](https://joplinapp.org/).
 What I aim to do with [datejournal-cli][1] is to create the most _"barebones-yet-functional-for-me"_ (tm) solution available and get some practice in with bash.
 
-This ends my first post! If you have any _positive_ criticism or have an interesting topic to discuss feel free to [email me](mailto:bibanez@protonmail.com) or DM me on Twitter [@bibanez135](https://twitter.com/bibanez135).
+This ends my first post! If you have any _positive_ criticism or have an interesting topic to discuss feel free to [email me](mailto:bibanez135@gmail.com) or DM me on Twitter [@bibanez135](https://twitter.com/bibanez135).
 
 [1]: (https://github.com/bibanez/datejournal-cli)

@@ -17,7 +17,7 @@ Furthermore, the exact set of letters changes every 24h, so a curious phenomenon
 Because Catalan comes from Latin (unlike English, that comes from barbarians), we use accents.
 Regardless, these are omitted in Paraulògic, the same happening with other marks such as apostrophes or hyphens.
 
-If someone that reads this knows a version of this game in English, please [send me an email](mailto:bibanez@protonmail.com) so I can check it out.
+If someone that reads this knows a version of this game in English, please [send me an email](mailto:bibanez135@gmail.com) so I can check it out.
 
 Now that you get the hang of it, I'll get to the point of this article: as the title surmises, I want to solve Paraulògic programatically.
 Even though I'm keen on words and solving puzzles, the prospect of solving infinitely many puzzles with one stroke doubly motivates me.

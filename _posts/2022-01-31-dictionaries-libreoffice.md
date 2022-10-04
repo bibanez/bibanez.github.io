@@ -96,7 +96,7 @@ with open("ca_netejat.txt", "w") as txt_file:
 
 This concludes the tutorial for this week!
 
-If you find any other already made wordlists, feel free to [send me an email](mailto:bibanez@protonmail.com) and I'll add them at the start of this article.
+If you find any other already made wordlists, feel free to [send me an email](mailto:bibanez135@gmail.com) and I'll add them at the start of this article.
 
 You can find the previous code in the [Paraulogicked](https://github.com/bibanez/Paraulogicked) repository, a solver I made for the [*Paraulògic*](https://vilaweb.cat/paraulogic/) online game.
 
