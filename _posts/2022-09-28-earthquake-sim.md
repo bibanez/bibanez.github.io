@@ -97,7 +97,7 @@ Then, after setting up the SDK header files, the `emcc` command in the Makefile
 should compile the program with the specific html shell in this repository.
 
 I know I'm sparse in details, but if you want to compile this project and don't
-know how, send me an email to [bibanez135\@gmail.com](mailto:bibanez135@gmail.com).
+know how, send me an email to [bibanez135@gmail.com](mailto:bibanez135@gmail.com).
 
 ## Special thanks to
 
